@@ -141,6 +141,8 @@
     <ClCompile Include="Framework\Input.cpp" />
     <ClCompile Include="Level.cpp" />
     <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Menu.cpp" />
+    <ClCompile Include="Pause.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Framework\BaseLevel.h" />
@@ -150,6 +152,8 @@
     <ClInclude Include="Framework\Input.h" />
     <ClInclude Include="Framework\UI.h" />
     <ClInclude Include="Level.h" />
+    <ClInclude Include="Menu.h" />
+    <ClInclude Include="Pause.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="Framework\DO_NOT_EDIT.txt" />
